@@ -1,0 +1,2967 @@
+Age,Internships,CGPA,Hostel,HistoryOfBacklogs,PlacedOrNot,Gender,Stream
+22.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,1.0,1.0,1.0,Female,Computer Science
+22.0,1.0,6.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,8.0,0.0,1.0,1.0,Female,Electrical
+21.0,2.0,6.0,1.0,1.0,0.0,Female,Computer Science
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Electrical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Female,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,1.0,0.0,Male,Electrical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+21.0,1.0,7.0,1.0,1.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+22.0,2.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,3.0,6.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,3.0,6.0,1.0,1.0,0.0,Male,Electrical
+21.0,3.0,6.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Electrical
+21.0,2.0,9.0,0.0,1.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,9.0,0.0,0.0,1.0,Male,Mechanical
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,2.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+22.0,3.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Civil
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Civil
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Electrical
+22.0,2.0,7.0,0.0,0.0,0.0,Female,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Mechanical
+23.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,6.0,0.0,0.0,1.0,Male,Civil
+23.0,1.0,5.0,0.0,0.0,0.0,Male,Mechanical
+24.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+23.0,0.0,5.0,1.0,0.0,0.0,Male,Electrical
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+24.0,0.0,6.0,0.0,0.0,1.0,Female,Information Technology
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+24.0,1.0,7.0,0.0,1.0,1.0,Male,Civil
+23.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+23.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+24.0,1.0,6.0,0.0,1.0,1.0,Male,Electronics And Communication
+24.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+23.0,1.0,7.0,1.0,0.0,1.0,Male,Information Technology
+23.0,1.0,7.0,1.0,0.0,1.0,Male,Information Technology
+24.0,3.0,5.0,0.0,1.0,1.0,Male,Information Technology
+23.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+23.0,2.0,6.0,0.0,0.0,1.0,Female,Information Technology
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+23.0,1.0,5.0,0.0,0.0,1.0,Male,Information Technology
+23.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+23.0,2.0,7.0,1.0,0.0,1.0,Male,Mechanical
+24.0,1.0,5.0,0.0,0.0,0.0,Male,Information Technology
+24.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+24.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+24.0,0.0,5.0,0.0,0.0,0.0,Male,Electronics And Communication
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+23.0,0.0,6.0,1.0,1.0,1.0,Male,Mechanical
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+23.0,1.0,7.0,1.0,0.0,0.0,Female,Mechanical
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,6.0,1.0,1.0,1.0,Male,Mechanical
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Mechanical
+24.0,0.0,5.0,0.0,0.0,1.0,Male,Information Technology
+23.0,0.0,5.0,0.0,0.0,0.0,Male,Electrical
+24.0,0.0,5.0,1.0,0.0,0.0,Male,Electrical
+23.0,1.0,5.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+24.0,3.0,7.0,0.0,0.0,1.0,Male,Information Technology
+24.0,2.0,5.0,0.0,0.0,1.0,Male,Computer Science
+24.0,2.0,5.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,7.0,1.0,0.0,1.0,Male,Civil
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+23.0,0.0,5.0,1.0,1.0,0.0,Male,Mechanical
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,5.0,0.0,0.0,0.0,Male,Electrical
+24.0,0.0,5.0,0.0,0.0,0.0,Female,Information Technology
+23.0,1.0,5.0,0.0,0.0,1.0,Male,Computer Science
+23.0,2.0,6.0,0.0,0.0,0.0,Female,Electronics And Communication
+24.0,0.0,7.0,0.0,0.0,1.0,Male,Civil
+24.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,0.0,5.0,0.0,0.0,0.0,Male,Information Technology
+24.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+24.0,0.0,7.0,0.0,1.0,1.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,5.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,5.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,3.0,6.0,1.0,0.0,1.0,Male,Civil
+21.0,0.0,6.0,0.0,1.0,1.0,Male,Computer Science
+21.0,0.0,5.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,6.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,5.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,5.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Civil
+21.0,2.0,5.0,0.0,0.0,0.0,Female,Information Technology
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Information Technology
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,5.0,1.0,0.0,0.0,Female,Mechanical
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Information Technology
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+22.0,0.0,5.0,0.0,0.0,0.0,Male,Civil
+21.0,2.0,5.0,0.0,1.0,0.0,Male,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,5.0,1.0,0.0,0.0,Female,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+22.0,0.0,5.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,5.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,5.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,5.0,0.0,1.0,0.0,Male,Information Technology
+22.0,1.0,5.0,1.0,0.0,0.0,Female,Computer Science
+21.0,2.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+21.0,1.0,5.0,1.0,1.0,0.0,Male,Information Technology
+22.0,2.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,6.0,1.0,0.0,1.0,Female,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Electrical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Mechanical
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,6.0,0.0,0.0,0.0,Female,Civil
+21.0,3.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Civil
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,2.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Electrical
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Civil
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,7.0,0.0,0.0,1.0,Female,Information Technology
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Female,Information Technology
+22.0,0.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,2.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,1.0,1.0,0.0,Male,Civil
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Electrical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,3.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Female,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,8.0,1.0,1.0,1.0,Male,Information Technology
+22.0,1.0,8.0,1.0,1.0,1.0,Female,Computer Science
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Electrical
+22.0,1.0,7.0,1.0,1.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Civil
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,0.0,1.0,1.0,Male,Information Technology
+21.0,2.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+21.0,0.0,6.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,7.0,1.0,0.0,1.0,Male,Civil
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,6.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,2.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Civil
+22.0,2.0,6.0,1.0,1.0,0.0,Female,Computer Science
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+22.0,2.0,8.0,0.0,1.0,1.0,Male,Electrical
+22.0,0.0,6.0,0.0,1.0,1.0,Male,Information Technology
+22.0,1.0,6.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,7.0,0.0,1.0,1.0,Male,Information Technology
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Civil
+22.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,6.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,1.0,1.0,Male,Mechanical
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,1.0,Female,Electrical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+22.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,7.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,1.0,1.0,Female,Electrical
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,1.0,7.0,0.0,0.0,1.0,Female,Information Technology
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Electrical
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,7.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Electrical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Civil
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Mechanical
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Information Technology
+22.0,1.0,6.0,0.0,1.0,0.0,Female,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,0.0,7.0,0.0,1.0,0.0,Female,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,2.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Mechanical
+21.0,1.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+21.0,1.0,5.0,1.0,0.0,0.0,Female,Information Technology
+21.0,0.0,6.0,1.0,1.0,0.0,Female,Computer Science
+22.0,1.0,5.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,5.0,1.0,1.0,0.0,Male,Mechanical
+21.0,2.0,6.0,1.0,0.0,1.0,Male,Information Technology
+21.0,2.0,5.0,0.0,1.0,0.0,Male,Computer Science
+22.0,0.0,5.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,5.0,0.0,1.0,0.0,Male,Information Technology
+22.0,2.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Electrical
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Civil
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+22.0,2.0,6.0,0.0,1.0,0.0,Male,Electrical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,3.0,7.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Female,Electrical
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,6.0,0.0,1.0,0.0,Male,Electrical
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Civil
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+28.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+22.0,0.0,7.0,0.0,1.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Electrical
+21.0,1.0,6.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,1.0,1.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,1.0,Female,Information Technology
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,3.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,1.0,1.0,Female,Information Technology
+21.0,0.0,8.0,1.0,1.0,1.0,Female,Computer Science
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Mechanical
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Civil
+22.0,0.0,6.0,0.0,1.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,6.0,1.0,0.0,1.0,Male,Civil
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+22.0,2.0,7.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,3.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,3.0,8.0,1.0,1.0,1.0,Female,Electronics And Communication
+21.0,0.0,7.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,6.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,2.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,6.0,1.0,1.0,0.0,Male,Civil
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Mechanical
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Civil
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Civil
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+30.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,1.0,1.0,0.0,Male,Electrical
+21.0,1.0,7.0,0.0,1.0,0.0,Female,Civil
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,7.0,0.0,1.0,0.0,Male,Electrical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Electrical
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,2.0,7.0,0.0,1.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,6.0,1.0,0.0,1.0,Male,Information Technology
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,7.0,1.0,0.0,1.0,Female,Information Technology
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,1.0,0.0,1.0,Female,Information Technology
+22.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,2.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electrical
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,8.0,1.0,1.0,1.0,Male,Civil
+22.0,1.0,6.0,1.0,0.0,1.0,Female,Computer Science
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Electrical
+22.0,2.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,2.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,2.0,6.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,6.0,0.0,0.0,1.0,Female,Information Technology
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,2.0,8.0,0.0,1.0,1.0,Male,Information Technology
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Mechanical
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Mechanical
+22.0,1.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,2.0,6.0,1.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,1.0,1.0,Female,Information Technology
+22.0,1.0,6.0,0.0,0.0,1.0,Female,Information Technology
+21.0,2.0,6.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,6.0,0.0,1.0,0.0,Female,Electrical
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Information Technology
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,1.0,0.0,Male,Mechanical
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,7.0,1.0,1.0,0.0,Female,Electrical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Civil
+22.0,1.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,2.0,8.0,0.0,1.0,1.0,Female,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,2.0,6.0,1.0,0.0,1.0,Male,Civil
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,2.0,6.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+25.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+26.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+24.0,1.0,8.0,0.0,1.0,1.0,Female,Electrical
+25.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+24.0,0.0,6.0,0.0,0.0,1.0,Female,Electronics And Communication
+25.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+25.0,0.0,9.0,1.0,0.0,1.0,Male,Civil
+25.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+26.0,1.0,6.0,0.0,0.0,1.0,Female,Information Technology
+26.0,1.0,6.0,1.0,0.0,1.0,Male,Information Technology
+25.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+26.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+24.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+25.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+24.0,1.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+25.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+24.0,0.0,7.0,0.0,1.0,1.0,Male,Computer Science
+24.0,2.0,8.0,1.0,0.0,1.0,Male,Mechanical
+23.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+26.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+23.0,1.0,7.0,0.0,1.0,0.0,Female,Civil
+26.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+26.0,2.0,8.0,1.0,0.0,1.0,Male,Electrical
+26.0,0.0,9.0,0.0,1.0,1.0,Male,Electrical
+26.0,0.0,6.0,0.0,0.0,1.0,Male,Civil
+24.0,0.0,9.0,0.0,1.0,1.0,Male,Mechanical
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+26.0,1.0,7.0,1.0,0.0,0.0,Female,Mechanical
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+24.0,0.0,8.0,0.0,0.0,1.0,Male,Mechanical
+26.0,0.0,9.0,0.0,0.0,1.0,Male,Civil
+25.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+23.0,0.0,9.0,1.0,1.0,1.0,Male,Mechanical
+24.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+23.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+26.0,3.0,7.0,0.0,0.0,1.0,Male,Computer Science
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+26.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+23.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+26.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+26.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+26.0,1.0,6.0,0.0,1.0,1.0,Female,Information Technology
+23.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+24.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+25.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+25.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+26.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+24.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+26.0,1.0,8.0,0.0,0.0,1.0,Female,Electrical
+25.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,1.0,0.0,1.0,Female,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,6.0,1.0,0.0,1.0,Female,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,2.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Electronics And Communication
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Female,Mechanical
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Electrical
+21.0,2.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,6.0,1.0,1.0,0.0,Male,Civil
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,1.0,1.0,1.0,Female,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,2.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Electrical
+22.0,1.0,7.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,7.0,0.0,0.0,1.0,Female,Information Technology
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,6.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Electrical
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,1.0,0.0,1.0,Female,Information Technology
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Electronics And Communication
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,1.0,Female,Information Technology
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,3.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Electrical
+21.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Electrical
+22.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Civil
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,7.0,1.0,1.0,1.0,Male,Electrical
+21.0,0.0,6.0,1.0,0.0,1.0,Female,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Civil
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Electrical
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,0.0,6.0,0.0,1.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Information Technology
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,1.0,1.0,0.0,Male,Civil
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,2.0,7.0,0.0,0.0,1.0,Female,Information Technology
+22.0,3.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Information Technology
+22.0,1.0,7.0,1.0,1.0,0.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,7.0,1.0,1.0,0.0,Male,Electronics And Communication
+21.0,2.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Civil
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,1.0,Female,Information Technology
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,2.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,1.0,1.0,Female,Civil
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,7.0,1.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,1.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,1.0,1.0,0.0,Male,Mechanical
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,2.0,7.0,0.0,1.0,1.0,Male,Information Technology
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,1.0,1.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,1.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,1.0,1.0,Male,Information Technology
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,1.0,1.0,Male,Electrical
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Electronics And Communication
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,6.0,0.0,1.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Civil
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,2.0,7.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,1.0,1.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,1.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,1.0,Female,Information Technology
+21.0,2.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,1.0,1.0,1.0,Female,Computer Science
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,2.0,7.0,0.0,1.0,1.0,Male,Information Technology
+22.0,2.0,7.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Mechanical
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,2.0,6.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,1.0,0.0,Male,Computer Science
+22.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,2.0,7.0,0.0,1.0,1.0,Male,Information Technology
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,2.0,8.0,1.0,1.0,1.0,Male,Civil
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,2.0,7.0,0.0,0.0,0.0,Female,Civil
+22.0,1.0,7.0,0.0,1.0,0.0,Male,Electrical
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,2.0,6.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,7.0,0.0,1.0,1.0,Female,Information Technology
+21.0,2.0,6.0,1.0,0.0,1.0,Male,Mechanical
+22.0,2.0,6.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,6.0,0.0,0.0,1.0,Female,Computer Science
+22.0,2.0,6.0,1.0,0.0,1.0,Male,Civil
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,2.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,2.0,8.0,0.0,1.0,1.0,Male,Civil
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,6.0,1.0,1.0,0.0,Female,Computer Science
+22.0,1.0,6.0,0.0,1.0,0.0,Male,Computer Science
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,7.0,1.0,1.0,0.0,Female,Electronics And Communication
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,2.0,8.0,0.0,0.0,1.0,Female,Electrical
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,6.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,1.0,1.0,1.0,Female,Electronics And Communication
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,2.0,8.0,1.0,1.0,1.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,2.0,7.0,0.0,0.0,0.0,Female,Electrical
+21.0,2.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,6.0,0.0,0.0,1.0,Female,Electrical
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,2.0,7.0,1.0,1.0,0.0,Female,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,2.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,2.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,2.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,2.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,1.0,1.0,Female,Electrical
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+22.0,1.0,9.0,1.0,0.0,1.0,Female,Information Technology
+21.0,2.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,7.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,2.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,2.0,9.0,0.0,0.0,1.0,Male,Information Technology
+21.0,2.0,7.0,0.0,1.0,0.0,Male,Civil
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,2.0,7.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,9.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Electrical
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,2.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,7.0,1.0,1.0,1.0,Male,Electrical
+21.0,1.0,9.0,1.0,1.0,1.0,Male,Mechanical
+22.0,2.0,8.0,0.0,0.0,1.0,Female,Electrical
+21.0,2.0,9.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,2.0,9.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,8.0,1.0,1.0,1.0,Female,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,2.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Civil
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Civil
+21.0,1.0,9.0,0.0,0.0,1.0,Female,Electrical
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,2.0,9.0,0.0,1.0,1.0,Male,Civil
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,2.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,1.0,9.0,1.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,2.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,2.0,7.0,1.0,0.0,1.0,Male,Civil
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,7.0,1.0,0.0,1.0,Male,Electrical
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,9.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,9.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,9.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,9.0,1.0,0.0,1.0,Female,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,9.0,1.0,1.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,9.0,1.0,1.0,1.0,Female,Computer Science
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Information Technology
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,9.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Civil
+22.0,2.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,9.0,0.0,1.0,1.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,9.0,0.0,1.0,1.0,Male,Civil
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,1.0,0.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Electrical
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,1.0,0.0,Female,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,9.0,1.0,1.0,1.0,Female,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,9.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,1.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,9.0,0.0,0.0,1.0,Male,Electrical
+21.0,2.0,9.0,0.0,1.0,1.0,Male,Computer Science
+22.0,3.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,9.0,1.0,1.0,1.0,Male,Mechanical
+21.0,2.0,9.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,0.0,9.0,0.0,0.0,1.0,Female,Information Technology
+22.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Information Technology
+21.0,2.0,8.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,9.0,1.0,0.0,1.0,Female,Information Technology
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,9.0,1.0,1.0,1.0,Male,Mechanical
+22.0,2.0,9.0,0.0,0.0,1.0,Male,Mechanical
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,1.0,1.0,1.0,Female,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,1.0,1.0,1.0,Female,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+22.0,0.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Mechanical
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,9.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,9.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,2.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Civil
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,9.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+25.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+26.0,0.0,7.0,1.0,0.0,0.0,Male,Electrical
+24.0,1.0,6.0,0.0,1.0,1.0,Male,Information Technology
+25.0,0.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+26.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+26.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+26.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+26.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+24.0,1.0,7.0,0.0,0.0,0.0,Female,Computer Science
+26.0,1.0,6.0,0.0,1.0,1.0,Female,Civil
+26.0,0.0,6.0,0.0,1.0,1.0,Male,Computer Science
+26.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+26.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+26.0,0.0,7.0,0.0,1.0,0.0,Male,Mechanical
+26.0,0.0,6.0,0.0,0.0,1.0,Male,Electrical
+25.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+26.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+24.0,1.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+26.0,0.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+26.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+24.0,0.0,6.0,1.0,1.0,1.0,Female,Computer Science
+24.0,0.0,6.0,0.0,1.0,1.0,Male,Computer Science
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+25.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+25.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+25.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+26.0,1.0,6.0,0.0,0.0,1.0,Male,Mechanical
+26.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+26.0,0.0,6.0,0.0,1.0,1.0,Male,Computer Science
+26.0,1.0,7.0,1.0,1.0,0.0,Male,Electronics And Communication
+25.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+25.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+25.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+26.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+25.0,1.0,7.0,1.0,0.0,1.0,Female,Computer Science
+26.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+26.0,0.0,7.0,1.0,0.0,1.0,Female,Computer Science
+26.0,0.0,7.0,0.0,0.0,1.0,Female,Information Technology
+26.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+26.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+24.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Civil
+25.0,1.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+26.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+26.0,1.0,6.0,1.0,1.0,1.0,Male,Mechanical
+25.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+26.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+25.0,2.0,7.0,0.0,1.0,1.0,Male,Computer Science
+25.0,2.0,7.0,0.0,1.0,1.0,Male,Computer Science
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+26.0,0.0,6.0,0.0,0.0,1.0,Male,Electrical
+24.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+26.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+26.0,1.0,7.0,1.0,1.0,0.0,Male,Mechanical
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+26.0,0.0,6.0,0.0,0.0,1.0,Female,Information Technology
+25.0,0.0,6.0,1.0,1.0,1.0,Female,Computer Science
+25.0,1.0,6.0,1.0,0.0,1.0,Male,Mechanical
+26.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+25.0,0.0,6.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,7.0,0.0,1.0,0.0,Female,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,1.0,1.0,0.0,Female,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,1.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+22.0,3.0,7.0,1.0,1.0,0.0,Female,Information Technology
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,1.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,1.0,1.0,0.0,Female,Computer Science
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,0.0,1.0,0.0,Female,Civil
+22.0,3.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,8.0,1.0,1.0,1.0,Male,Civil
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Civil
+21.0,0.0,8.0,1.0,1.0,1.0,Female,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+21.0,2.0,7.0,1.0,1.0,0.0,Male,Civil
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+21.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,3.0,6.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,2.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+28.0,3.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,0.0,6.0,1.0,0.0,0.0,Female,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Female,Electrical
+22.0,0.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,7.0,1.0,1.0,0.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,3.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,0.0,1.0,1.0,Female,Civil
+22.0,3.0,6.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,8.0,0.0,1.0,1.0,Male,Electrical
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+24.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+24.0,1.0,6.0,1.0,1.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+24.0,1.0,6.0,0.0,0.0,1.0,Female,Information Technology
+24.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,7.0,0.0,1.0,0.0,Female,Electrical
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+23.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+23.0,2.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,2.0,7.0,1.0,1.0,1.0,Female,Computer Science
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Information Technology
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electrical
+23.0,1.0,6.0,0.0,1.0,1.0,Male,Electronics And Communication
+23.0,0.0,8.0,0.0,1.0,1.0,Male,Electrical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+24.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+24.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+24.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Female,Electrical
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+23.0,1.0,6.0,0.0,1.0,1.0,Male,Electronics And Communication
+23.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+20.0,1.0,7.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electrical
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+23.0,0.0,7.0,1.0,1.0,0.0,Female,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+24.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+20.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+24.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+24.0,0.0,7.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+23.0,2.0,7.0,0.0,1.0,1.0,Male,Computer Science
+23.0,1.0,7.0,1.0,0.0,1.0,Male,Mechanical
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+24.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,1.0,1.0,1.0,Female,Computer Science
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+24.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,2.0,6.0,1.0,1.0,1.0,Male,Electrical
+20.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,2.0,5.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,5.0,1.0,0.0,0.0,Male,Mechanical
+23.0,1.0,6.0,1.0,0.0,0.0,Female,Information Technology
+24.0,0.0,5.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+24.0,1.0,5.0,0.0,0.0,0.0,Male,Computer Science
+23.0,0.0,5.0,1.0,1.0,0.0,Female,Computer Science
+23.0,0.0,5.0,0.0,1.0,0.0,Male,Information Technology
+23.0,0.0,5.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,6.0,0.0,0.0,0.0,Male,Civil
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Civil
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,5.0,0.0,0.0,0.0,Male,Computer Science
+20.0,2.0,5.0,0.0,0.0,0.0,Male,Computer Science
+24.0,0.0,5.0,0.0,1.0,0.0,Male,Mechanical
+24.0,0.0,5.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,5.0,0.0,0.0,0.0,Male,Information Technology
+23.0,1.0,6.0,0.0,1.0,0.0,Male,Electrical
+21.0,0.0,7.0,1.0,0.0,1.0,Female,Computer Science
+23.0,1.0,7.0,1.0,0.0,1.0,Female,Computer Science
+20.0,1.0,6.0,1.0,0.0,1.0,Male,Civil
+24.0,1.0,7.0,0.0,0.0,0.0,Female,Information Technology
+24.0,1.0,7.0,0.0,0.0,1.0,Female,Mechanical
+20.0,0.0,7.0,1.0,1.0,0.0,Male,Civil
+23.0,0.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+24.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+23.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+24.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+24.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,2.0,7.0,1.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+23.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+24.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Computer Science
+24.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Civil
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,1.0,Male,Electrical
+20.0,1.0,7.0,1.0,1.0,0.0,Male,Mechanical
+24.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,2.0,7.0,1.0,1.0,0.0,Female,Computer Science
+23.0,0.0,6.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,3.0,8.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+23.0,0.0,7.0,0.0,1.0,1.0,Male,Information Technology
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+24.0,0.0,6.0,1.0,1.0,1.0,Male,Mechanical
+20.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,2.0,6.0,0.0,0.0,1.0,Male,Civil
+23.0,0.0,7.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+24.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+24.0,1.0,8.0,1.0,1.0,1.0,Male,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+23.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,6.0,0.0,1.0,1.0,Male,Computer Science
+23.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+24.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,1.0,1.0,1.0,Female,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+23.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,6.0,1.0,1.0,0.0,Male,Civil
+24.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+23.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+24.0,1.0,6.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+20.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+24.0,0.0,6.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+24.0,1.0,7.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+24.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,1.0,1.0,0.0,Male,Civil
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+23.0,1.0,5.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,5.0,1.0,0.0,0.0,Female,Computer Science
+20.0,0.0,5.0,1.0,1.0,0.0,Female,Computer Science
+20.0,0.0,5.0,1.0,0.0,0.0,Male,Mechanical
+24.0,2.0,5.0,1.0,0.0,0.0,Female,Computer Science
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,0.0,5.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,5.0,1.0,0.0,0.0,Female,Mechanical
+22.0,1.0,5.0,0.0,0.0,0.0,Male,Mechanical
+24.0,1.0,6.0,0.0,1.0,1.0,Male,Information Technology
+23.0,0.0,5.0,1.0,1.0,0.0,Male,Mechanical
+23.0,1.0,5.0,0.0,0.0,0.0,Female,Civil
+22.0,0.0,5.0,0.0,0.0,0.0,Male,Electrical
+20.0,1.0,5.0,0.0,0.0,0.0,Male,Computer Science
+23.0,1.0,5.0,0.0,0.0,0.0,Male,Computer Science
+23.0,0.0,5.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Civil
+23.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,5.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,6.0,1.0,1.0,0.0,Male,Electrical
+21.0,0.0,5.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,0.0,5.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,1.0,5.0,1.0,0.0,0.0,Female,Mechanical
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,6.0,0.0,1.0,0.0,Male,Civil
+22.0,2.0,6.0,1.0,0.0,1.0,Male,Electrical
+21.0,0.0,5.0,1.0,1.0,0.0,Male,Mechanical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+20.0,1.0,5.0,1.0,0.0,0.0,Male,Mechanical
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+23.0,0.0,5.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,5.0,0.0,1.0,0.0,Male,Civil
+21.0,1.0,6.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,5.0,0.0,0.0,0.0,Male,Computer Science
+23.0,3.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,5.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,1.0,0.0,Male,Electrical
+20.0,0.0,6.0,0.0,1.0,0.0,Male,Civil
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+24.0,1.0,6.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,1.0,6.0,0.0,1.0,0.0,Male,Civil
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+24.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,5.0,1.0,0.0,0.0,Male,Mechanical
+23.0,0.0,5.0,0.0,1.0,0.0,Male,Computer Science
+23.0,1.0,5.0,1.0,0.0,0.0,Female,Computer Science
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,5.0,1.0,0.0,0.0,Male,Civil
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,1.0,1.0,0.0,Male,Electrical
+22.0,0.0,5.0,0.0,0.0,0.0,Male,Information Technology
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+23.0,0.0,6.0,0.0,1.0,0.0,Male,Civil
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Electrical
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+23.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+20.0,3.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Female,Information Technology
+24.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Electronics And Communication
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+24.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+20.0,1.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Mechanical
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+24.0,1.0,7.0,1.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+23.0,1.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Information Technology
+23.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Information Technology
+24.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+24.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Mechanical
+24.0,0.0,6.0,1.0,0.0,1.0,Male,Civil
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+24.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+24.0,1.0,7.0,1.0,1.0,0.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+24.0,0.0,7.0,1.0,1.0,0.0,Male,Civil
+21.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+22.0,1.0,6.0,1.0,1.0,0.0,Female,Electronics And Communication
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Information Technology
+24.0,1.0,7.0,1.0,1.0,1.0,Female,Electronics And Communication
+24.0,0.0,6.0,0.0,1.0,1.0,Male,Computer Science
+23.0,1.0,7.0,1.0,0.0,0.0,Female,Mechanical
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+20.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,6.0,1.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+24.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+24.0,1.0,7.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+23.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+24.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,1.0,1.0,0.0,Female,Computer Science
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+23.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,1.0,1.0,0.0,Male,Mechanical
+24.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Electronics And Communication
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+24.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,7.0,0.0,1.0,1.0,Female,Electrical
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+24.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+23.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Electrical
+23.0,0.0,6.0,0.0,0.0,0.0,Female,Electrical
+24.0,0.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+24.0,1.0,6.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,8.0,0.0,1.0,1.0,Female,Electrical
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+20.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+23.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+23.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,2.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,2.0,7.0,1.0,0.0,1.0,Male,Electrical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+19.0,1.0,8.0,0.0,1.0,1.0,Female,Information Technology
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+19.0,0.0,7.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,1.0,1.0,Female,Civil
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,7.0,1.0,0.0,1.0,Female,Computer Science
+19.0,1.0,7.0,0.0,1.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,3.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+20.0,1.0,8.0,1.0,0.0,1.0,Female,Information Technology
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,2.0,7.0,0.0,1.0,0.0,Male,Information Technology
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,8.0,1.0,1.0,1.0,Female,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,8.0,0.0,1.0,1.0,Male,Electrical
+19.0,1.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,3.0,7.0,1.0,1.0,0.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,1.0,7.0,1.0,0.0,1.0,Female,Information Technology
+20.0,0.0,7.0,0.0,1.0,1.0,Male,Information Technology
+22.0,3.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,1.0,8.0,0.0,0.0,1.0,Female,Civil
+22.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+20.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,1.0,8.0,1.0,1.0,1.0,Male,Information Technology
+20.0,1.0,7.0,1.0,1.0,0.0,Male,Mechanical
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+19.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+19.0,0.0,8.0,0.0,1.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+20.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+19.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+19.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+20.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,1.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+19.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,7.0,1.0,1.0,1.0,Male,Electrical
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Electrical
+22.0,0.0,6.0,0.0,0.0,0.0,Female,Electrical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,7.0,0.0,1.0,0.0,Male,Civil
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+19.0,2.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+22.0,3.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+19.0,2.0,6.0,0.0,1.0,0.0,Male,Electrical
+19.0,2.0,6.0,1.0,0.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,7.0,1.0,1.0,0.0,Female,Electrical
+19.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,2.0,7.0,1.0,0.0,0.0,Male,Mechanical
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+19.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,2.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+19.0,1.0,7.0,1.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,2.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,2.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,8.0,1.0,1.0,1.0,Female,Electrical
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+19.0,3.0,7.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,1.0,1.0,0.0,Female,Computer Science
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+19.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+20.0,0.0,6.0,1.0,1.0,0.0,Male,Electrical
+19.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+19.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,2.0,7.0,1.0,0.0,1.0,Female,Computer Science
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+20.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+19.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,9.0,0.0,1.0,1.0,Male,Information Technology
+19.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+19.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+20.0,1.0,6.0,1.0,1.0,1.0,Female,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,5.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+19.0,0.0,9.0,1.0,1.0,1.0,Male,Mechanical
+19.0,2.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+19.0,0.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,3.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Computer Science
+21.0,1.0,5.0,0.0,0.0,0.0,Female,Information Technology
+22.0,0.0,5.0,1.0,0.0,0.0,Male,Electrical
+19.0,1.0,5.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,5.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,5.0,0.0,0.0,0.0,Male,Electrical
+20.0,0.0,5.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Civil
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+22.0,2.0,5.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+19.0,0.0,9.0,0.0,1.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,5.0,0.0,0.0,0.0,Male,Electronics And Communication
+19.0,0.0,9.0,0.0,1.0,1.0,Male,Information Technology
+19.0,0.0,6.0,0.0,0.0,1.0,Male,Mechanical
+22.0,1.0,9.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electronics And Communication
+19.0,0.0,5.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,1.0,9.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,9.0,1.0,0.0,1.0,Female,Computer Science
+19.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Computer Science
+19.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+19.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,5.0,0.0,0.0,0.0,Male,Computer Science
+19.0,3.0,9.0,0.0,1.0,1.0,Female,Electrical
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,9.0,1.0,0.0,1.0,Male,Civil
+20.0,0.0,7.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+19.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,9.0,1.0,0.0,1.0,Female,Civil
+21.0,0.0,6.0,1.0,0.0,1.0,Male,Mechanical
+20.0,2.0,7.0,0.0,1.0,1.0,Male,Computer Science
+21.0,0.0,5.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,5.0,1.0,0.0,0.0,Male,Information Technology
+19.0,1.0,9.0,1.0,0.0,1.0,Male,Information Technology
+19.0,3.0,7.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,5.0,1.0,0.0,0.0,Male,Electrical
+20.0,0.0,9.0,1.0,1.0,1.0,Female,Computer Science
+21.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,5.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,3.0,9.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,5.0,0.0,0.0,0.0,Male,Mechanical
+21.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,3.0,9.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+19.0,1.0,6.0,0.0,1.0,1.0,Male,Electronics And Communication
+20.0,1.0,9.0,1.0,0.0,1.0,Male,Mechanical
+20.0,2.0,9.0,1.0,0.0,1.0,Male,Civil
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,7.0,1.0,1.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+19.0,1.0,8.0,0.0,0.0,1.0,Female,Information Technology
+19.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,1.0,1.0,0.0,Female,Electrical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+19.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Mechanical
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,1.0,7.0,0.0,0.0,1.0,Female,Information Technology
+19.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+19.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,7.0,1.0,1.0,1.0,Female,Computer Science
+19.0,1.0,7.0,1.0,0.0,1.0,Female,Computer Science
+19.0,0.0,6.0,0.0,1.0,0.0,Male,Electrical
+19.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+20.0,0.0,6.0,0.0,1.0,1.0,Male,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+19.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+19.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,1.0,Male,Electrical
+22.0,3.0,6.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+19.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,7.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Computer Science
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+20.0,1.0,6.0,0.0,1.0,0.0,Male,Information Technology
+19.0,1.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,1.0,6.0,0.0,0.0,0.0,Female,Mechanical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,8.0,0.0,1.0,1.0,Female,Electronics And Communication
+19.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+19.0,1.0,8.0,1.0,1.0,1.0,Male,Mechanical
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+19.0,0.0,8.0,1.0,1.0,1.0,Male,Civil
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Mechanical
+19.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+19.0,2.0,7.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Civil
+19.0,1.0,6.0,0.0,0.0,1.0,Male,Civil
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,1.0,Male,Information Technology
+19.0,0.0,7.0,0.0,1.0,1.0,Male,Computer Science
+19.0,0.0,7.0,0.0,0.0,0.0,Female,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,0.0,6.0,1.0,1.0,0.0,Female,Computer Science
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,3.0,6.0,1.0,1.0,0.0,Female,Information Technology
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+20.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,6.0,1.0,1.0,0.0,Male,Mechanical
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Mechanical
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Electronics And Communication
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,6.0,0.0,1.0,0.0,Female,Civil
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Female,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+19.0,1.0,7.0,0.0,0.0,1.0,Female,Electrical
+19.0,0.0,6.0,0.0,0.0,0.0,Female,Electronics And Communication
+19.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+19.0,2.0,7.0,0.0,1.0,1.0,Male,Electrical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+19.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,2.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,7.0,0.0,1.0,1.0,Male,Electrical
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+20.0,2.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+22.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+19.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+19.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+19.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+29.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+19.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+19.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+19.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+19.0,2.0,7.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,0.0,0.0,0.0,Female,Civil
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+22.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+19.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+19.0,1.0,7.0,0.0,0.0,1.0,Female,Electrical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+19.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Female,Mechanical
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,3.0,6.0,0.0,1.0,0.0,Female,Electrical
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+19.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+19.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,2.0,6.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+20.0,1.0,7.0,0.0,0.0,0.0,Female,Civil
+19.0,1.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+19.0,1.0,7.0,0.0,1.0,0.0,Male,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+22.0,1.0,7.0,1.0,1.0,0.0,Male,Electrical
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+22.0,0.0,6.0,0.0,0.0,0.0,Female,Electronics And Communication
+19.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+19.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+19.0,1.0,7.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Civil
+22.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+19.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+22.0,2.0,7.0,1.0,0.0,0.0,Female,Computer Science
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Electrical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Civil
+19.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Civil
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+19.0,0.0,8.0,0.0,1.0,1.0,Male,Electrical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Mechanical
+19.0,1.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+19.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+19.0,0.0,8.0,1.0,1.0,1.0,Male,Civil
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+19.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+28.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+19.0,1.0,6.0,1.0,0.0,0.0,Male,Electronics And Communication
+19.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Mechanical
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+19.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+19.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+19.0,1.0,8.0,0.0,1.0,1.0,Male,Mechanical
+19.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+22.0,1.0,6.0,1.0,0.0,0.0,Male,Civil
+19.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+19.0,2.0,8.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,6.0,1.0,1.0,0.0,Female,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Electrical
+20.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+19.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electrical
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+19.0,0.0,6.0,1.0,0.0,0.0,Male,Civil
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+19.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Electrical
+19.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+19.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+22.0,3.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+19.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Electronics And Communication
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,7.0,0.0,0.0,1.0,Female,Electrical
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,2.0,6.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Electrical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+20.0,2.0,7.0,0.0,0.0,0.0,Male,Civil
+20.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Civil
+20.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Civil
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+20.0,1.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+20.0,0.0,6.0,1.0,1.0,0.0,Female,Computer Science
+20.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+21.0,3.0,6.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,1.0,7.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,0.0,6.0,1.0,1.0,0.0,Male,Civil
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,3.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+20.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+20.0,0.0,6.0,0.0,0.0,0.0,Female,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+20.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Electrical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Information Technology
+20.0,1.0,8.0,1.0,0.0,1.0,Female,Information Technology
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+20.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,1.0,0.0,0.0,Female,Mechanical
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,1.0,0.0,0.0,Male,Civil
+21.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+21.0,2.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Information Technology
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+20.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Mechanical
+21.0,2.0,6.0,0.0,1.0,0.0,Male,Electrical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+20.0,1.0,7.0,1.0,0.0,0.0,Male,Computer Science
+20.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Civil
+20.0,2.0,9.0,0.0,0.0,1.0,Male,Civil
+21.0,1.0,9.0,1.0,0.0,1.0,Female,Computer Science
+20.0,0.0,9.0,1.0,0.0,1.0,Male,Electrical
+20.0,2.0,9.0,0.0,0.0,1.0,Male,Civil
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+20.0,3.0,7.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+21.0,2.0,7.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,1.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,9.0,1.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,9.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Electrical
+20.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,9.0,0.0,1.0,1.0,Male,Electronics And Communication
+20.0,1.0,8.0,1.0,0.0,1.0,Female,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+20.0,1.0,9.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,9.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Electrical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,2.0,9.0,1.0,1.0,1.0,Female,Computer Science
+20.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,1.0,9.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,9.0,1.0,0.0,1.0,Male,Civil
+20.0,1.0,7.0,0.0,1.0,1.0,Male,Electronics And Communication
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,9.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,0.0,9.0,1.0,1.0,1.0,Male,Civil
+20.0,1.0,8.0,0.0,1.0,1.0,Male,Electrical
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,3.0,9.0,0.0,0.0,1.0,Female,Electronics And Communication
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Electrical
+20.0,3.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+20.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+20.0,0.0,9.0,0.0,1.0,1.0,Male,Electrical
+21.0,3.0,9.0,0.0,0.0,1.0,Male,Civil
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,9.0,1.0,1.0,1.0,Male,Mechanical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,1.0,9.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,2.0,9.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,7.0,0.0,1.0,1.0,Male,Electrical
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,9.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,1.0,0.0,0.0,Female,Computer Science
+20.0,1.0,7.0,0.0,0.0,1.0,Female,Electrical
+20.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,9.0,0.0,1.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,9.0,0.0,0.0,1.0,Male,Civil
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,9.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,7.0,1.0,0.0,0.0,Male,Civil
+21.0,2.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Information Technology
+20.0,2.0,7.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+20.0,2.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,1.0,9.0,0.0,0.0,1.0,Male,Information Technology
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,9.0,1.0,0.0,1.0,Female,Computer Science
+20.0,0.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+20.0,1.0,7.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,9.0,0.0,1.0,1.0,Male,Computer Science
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+20.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Mechanical
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+20.0,3.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,9.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+20.0,1.0,7.0,0.0,1.0,1.0,Female,Electrical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,9.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+20.0,0.0,9.0,0.0,1.0,1.0,Male,Civil
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,2.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,9.0,0.0,0.0,1.0,Male,Information Technology
+20.0,0.0,8.0,1.0,0.0,1.0,Female,Computer Science
+20.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,1.0,9.0,0.0,0.0,1.0,Male,Civil
+20.0,1.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,1.0,9.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+20.0,1.0,7.0,1.0,0.0,0.0,Male,Information Technology
+20.0,2.0,8.0,1.0,0.0,1.0,Female,Computer Science
+20.0,1.0,7.0,1.0,1.0,1.0,Male,Electrical
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,2.0,8.0,0.0,0.0,1.0,Female,Information Technology
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,8.0,0.0,1.0,1.0,Male,Information Technology
+21.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,2.0,8.0,0.0,0.0,1.0,Female,Information Technology
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Electrical
+21.0,2.0,8.0,0.0,0.0,1.0,Female,Computer Science
+20.0,1.0,7.0,0.0,1.0,0.0,Female,Information Technology
+20.0,1.0,7.0,1.0,1.0,0.0,Male,Electronics And Communication
+20.0,0.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+20.0,1.0,7.0,0.0,1.0,1.0,Male,Electrical
+20.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,8.0,0.0,0.0,1.0,Female,Electrical
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+20.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+20.0,0.0,6.0,1.0,1.0,0.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,1.0,8.0,0.0,0.0,1.0,Female,Electronics And Communication
+20.0,0.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,0.0,6.0,0.0,0.0,0.0,Female,Electrical
+20.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Electrical
+20.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,1.0,1.0,Male,Electrical
+20.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+20.0,1.0,6.0,0.0,1.0,0.0,Male,Mechanical
+21.0,2.0,6.0,1.0,0.0,1.0,Female,Computer Science
+20.0,1.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+20.0,0.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+20.0,1.0,8.0,0.0,1.0,1.0,Male,Information Technology
+20.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+20.0,0.0,8.0,0.0,0.0,1.0,Female,Information Technology
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+20.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+20.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+22.0,1.0,6.0,1.0,0.0,0.0,Female,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Computer Science
+23.0,1.0,6.0,1.0,0.0,0.0,Male,Mechanical
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+23.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,7.0,0.0,1.0,0.0,Male,Electrical
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+23.0,0.0,6.0,1.0,0.0,0.0,Male,Electrical
+21.0,1.0,8.0,1.0,1.0,1.0,Male,Information Technology
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Civil
+23.0,1.0,6.0,0.0,1.0,0.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,7.0,1.0,1.0,0.0,Male,Mechanical
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,1.0,7.0,0.0,1.0,0.0,Male,Civil
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+22.0,0.0,7.0,0.0,1.0,0.0,Female,Information Technology
+21.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+23.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+23.0,1.0,6.0,1.0,1.0,0.0,Male,Electronics And Communication
+22.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,3.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+23.0,1.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+23.0,1.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+23.0,0.0,6.0,0.0,1.0,0.0,Male,Electronics And Communication
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+23.0,1.0,7.0,0.0,1.0,1.0,Male,Electronics And Communication
+23.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,6.0,1.0,1.0,0.0,Male,Mechanical
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+23.0,1.0,8.0,1.0,1.0,1.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Information Technology
+22.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,8.0,1.0,1.0,1.0,Male,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+23.0,1.0,7.0,0.0,0.0,0.0,Female,Mechanical
+21.0,0.0,7.0,0.0,0.0,0.0,Female,Information Technology
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Electrical
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Civil
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,1.0,0.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Information Technology
+23.0,3.0,8.0,1.0,0.0,1.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Civil
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Electronics And Communication
+23.0,2.0,8.0,0.0,0.0,1.0,Male,Civil
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,0.0,7.0,0.0,0.0,1.0,Female,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,0.0,8.0,1.0,1.0,1.0,Male,Mechanical
+23.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,2.0,6.0,0.0,0.0,1.0,Male,Information Technology
+23.0,2.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,0.0,6.0,0.0,0.0,1.0,Male,Computer Science
+23.0,2.0,6.0,0.0,0.0,1.0,Male,Computer Science
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,2.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+21.0,0.0,8.0,0.0,1.0,1.0,Male,Electronics And Communication
+21.0,0.0,6.0,0.0,0.0,0.0,Female,Information Technology
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+23.0,0.0,6.0,0.0,1.0,0.0,Male,Information Technology
+23.0,0.0,8.0,1.0,1.0,1.0,Male,Civil
+22.0,1.0,8.0,1.0,0.0,1.0,Male,Mechanical
+23.0,1.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+21.0,0.0,6.0,0.0,0.0,0.0,Male,Civil
+21.0,1.0,6.0,0.0,0.0,0.0,Male,Computer Science
+22.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,0.0,7.0,1.0,1.0,0.0,Female,Computer Science
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,2.0,8.0,0.0,1.0,1.0,Male,Electrical
+23.0,1.0,8.0,1.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+22.0,2.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Information Technology
+23.0,1.0,6.0,1.0,0.0,0.0,Male,Information Technology
+21.0,3.0,6.0,1.0,0.0,1.0,Male,Mechanical
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,0.0,6.0,0.0,0.0,0.0,Male,Electrical
+23.0,0.0,7.0,1.0,0.0,0.0,Male,Mechanical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,1.0,0.0,Male,Electrical
+21.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Computer Science
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Information Technology
+22.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+22.0,0.0,6.0,1.0,0.0,0.0,Female,Computer Science
+23.0,0.0,6.0,1.0,0.0,0.0,Female,Computer Science
+21.0,2.0,8.0,0.0,0.0,1.0,Male,Computer Science
+21.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Computer Science
+23.0,1.0,8.0,0.0,0.0,1.0,Male,Electrical
+21.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Information Technology
+23.0,0.0,6.0,0.0,0.0,0.0,Male,Mechanical
+21.0,0.0,7.0,0.0,1.0,0.0,Male,Computer Science
+21.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+23.0,0.0,6.0,1.0,0.0,0.0,Male,Mechanical
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Electronics And Communication
+23.0,1.0,7.0,0.0,1.0,0.0,Male,Information Technology
+21.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+23.0,1.0,7.0,1.0,1.0,0.0,Male,Information Technology
+22.0,2.0,8.0,0.0,1.0,1.0,Male,Computer Science
+21.0,0.0,7.0,0.0,0.0,0.0,Male,Electrical
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
+23.0,1.0,8.0,1.0,0.0,1.0,Female,Computer Science
+21.0,3.0,8.0,0.0,0.0,1.0,Male,Computer Science
+23.0,0.0,8.0,1.0,0.0,1.0,Male,Mechanical
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Electronics And Communication
+23.0,1.0,8.0,0.0,1.0,1.0,Female,Computer Science
+22.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,0.0,8.0,0.0,0.0,1.0,Male,Computer Science
+22.0,1.0,6.0,0.0,1.0,0.0,Male,Electrical
+23.0,0.0,6.0,0.0,1.0,0.0,Male,Computer Science
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+23.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+23.0,0.0,7.0,0.0,0.0,0.0,Male,Information Technology
+23.0,1.0,7.0,1.0,0.0,0.0,Male,Mechanical
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Information Technology
+22.0,1.0,7.0,0.0,0.0,0.0,Male,Computer Science
+23.0,0.0,8.0,0.0,0.0,1.0,Male,Civil
